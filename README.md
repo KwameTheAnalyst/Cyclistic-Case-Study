@@ -14,8 +14,10 @@ Why casual riders would buy a membership, and
 How digital media could affect their marketing tactics. Moreno and her team are interested in analyzing the Cyclistic historical bike trip data to identify trends
 
 Stakeholders:
-Primary: Director of Marketing, Marketing analytic team
-Secondary: Cyclistic Executive team
+
+Primary: Director of Marketing, Marketing analytic team.
+Secondary: Cyclistic Executive team.
 
 Statement of Business Task
+
 This project conducts a comprehensive analysis of the usage patterns and behaviors of annual members and casual riders within the Cyclistic bike-sharing program. The primary objective is to identify key distinctions in how these two user segments engage with the service. By understanding the differences, the goal is to inform the development of targeted marketing strategies aimed at converting casual riders into annual members. The underlying motivation is the financial insight provided by the finance team, highlighting the increased profitability associated with annual memberships compared to casual rides. Ultimately, my analysis aims to provide actionable insights that can be leveraged to enhance Cyclistic's marketing approach and drive the conversion of casual riders into more profitable annual members.
